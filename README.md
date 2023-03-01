@@ -24,3 +24,9 @@
 ## Store History
 1. lifting state up, again
 - place history state in Game component(top-level)
+
+2. showing past moves
+- show all histories on Game component
+
+3. picking a key
+- how to differentiate each list item by using key to maintain state between re-renders
