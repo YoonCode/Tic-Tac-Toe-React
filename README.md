@@ -19,3 +19,5 @@
 
 5. taking turns
 - how to set conditional results
+
+6. Declaring a winner
