@@ -16,3 +16,6 @@
 
 4. function component 
 - how and why to use function component instead of class component
+
+5. taking turns
+- how to set conditional results
