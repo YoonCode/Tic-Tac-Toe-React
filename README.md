@@ -13,3 +13,6 @@
 
 3. immutability
 - how and why to create a copy of array and modify it, instead of modifying the existing array
+
+4. function component 
+- how and why to use function component instead of class component
