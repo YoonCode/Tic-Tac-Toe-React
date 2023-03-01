@@ -1,8 +1,8 @@
 # Tic-Tac-Toe Tutorial
 
-# [Final Result](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
+## [Final Result](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
 
-# What to learn
+## Declare Winner
 1. props vs state
 - how to pass props from parent to children component
 - how to use state and setState for making components interactive
@@ -17,7 +17,18 @@
 4. function component 
 - how and why to use function component instead of class component
 
-5. taking turns
+5. taking turns and declaring a winner
 - how to set conditional results
+- stop when there's a winner
 
-6. Declaring a winner
+## Store History
+1. lifting state up, again
+- place history state in Game component(top-level)
+
+2. showing past moves
+- show all histories on Game component
+
+3. picking a key
+- how to differentiate each list item by using key to maintain state between re-renders
+
+4. implement time travel
